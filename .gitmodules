@@ -4,3 +4,6 @@
 [submodule "HivePoC"]
 	path = HivePoC
 	url = https://github.com/HiveProjectLtd/HivePoC.git
+[submodule "Tanzo"]
+	path = Tanzo
+	url = https://github.com/CryptoBlockTeam/Tanzo.git
