@@ -7,3 +7,6 @@
 [submodule "Tanzo"]
 	path = Tanzo
 	url = https://github.com/CryptoBlockTeam/Tanzo.git
+[submodule "Craider"]
+	path = Craider
+	url = https://github.com/CryptoBlockTeam/Craider.git
