@@ -1,0 +1,6 @@
+[submodule "HVNTokenBasic"]
+	path = HVNTokenBasic
+	url = https://github.com/HiveProjectLtd/HVNTokenBasic.git
+[submodule "HivePoC"]
+	path = HivePoC
+	url = https://github.com/HiveProjectLtd/HivePoC.git
